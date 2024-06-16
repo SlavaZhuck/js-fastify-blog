@@ -8,7 +8,7 @@
 * Sqlite или PostgreSQL
 
 ## Commands
-
+      
 ```bash
 make install
 make dev
